@@ -14,7 +14,7 @@
   "devDependencies": {
     "ava": "^3.15.0",
     "axios": "^0.21.1",
-    "axios-retry": "^3.1.9",
+    "axios-retry": "^3.3.1",
     "ethers": "^5.3.0",
     "image-pixels": "^2.2.2",
     "lodash": "^4.17.21",
