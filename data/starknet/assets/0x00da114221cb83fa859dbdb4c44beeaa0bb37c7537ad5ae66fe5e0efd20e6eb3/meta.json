@@ -1,6 +1,6 @@
 {
   "name": "Dai Stablecoin",
-  "symbol": "DAI",
+  "symbol": "DAI v0",
   "trusted": true,
   "gen": {
     "logo": "logo.svg",

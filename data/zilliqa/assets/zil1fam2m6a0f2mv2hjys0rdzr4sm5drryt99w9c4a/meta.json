@@ -1,0 +1,20 @@
+{
+  "name": "Tyron SSI Token",
+  "symbol": "TYRON",
+  "web": "tyron.network",
+  "supply": "10000000",
+  "email": "tyron@ssiprotocol.com",
+  "whitepaper": "https://ssiprotocol.notion.site/Tyron-SSI-Protocol-7bddd99a648c4849bbf270ce86c48dac",
+  "links": {
+    "github": "https://github.com/tyroncoop",
+    "twitter": "https://twitter.com/ssiprotocol",
+    "telegram": "https://t.me/ssiprotocol",
+    "youtube": "https://www.youtube.com/@ssiprotocol",
+    "instagram": "https://www.instagram.com/ssiprotocol",
+    "linkedin": "https://www.linkedin.com/company/tyronssi/"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 33
+  }
+}
