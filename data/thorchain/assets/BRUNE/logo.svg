@@ -1,10 +1,1 @@
-<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask id="brune-bolt">
-      <rect width="300" height="300" fill="#fff"/>
-      <polygon points="114.5,101 236.2,49.9 157.8,145.5" fill="#000"/>
-      <polygon points="157.7,146.7 201.7,190.7 63.5,248.5" fill="#000"/>
-    </mask>
-  </defs>
-  <circle cx="150" cy="150" r="150" fill="#DF26B8" mask="url(#brune-bolt)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300"><defs><mask id="brune-bolt"><rect width="300" height="300" fill="#fff"/><polygon fill="#000" points="114.5 101 236.2 49.9 157.8 145.5"/><polygon fill="#000" points="157.7 146.7 201.7 190.7 63.5 248.5"/></mask></defs><circle cx="150" cy="150" r="150" fill="#DF26B8" mask="url(#brune-bolt)"/></svg>
